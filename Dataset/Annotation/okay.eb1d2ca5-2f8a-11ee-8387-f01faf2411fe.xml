@@ -1,0 +1,26 @@
+<annotation>
+	<folder>okay_Ahmed</folder>
+	<filename>okay.eb1d2ca5-2f8a-11ee-8387-f01faf2411fe.jpg</filename>
+	<path>C:\Users\lenovo\Downloads\okay_Ahmed\okay.eb1d2ca5-2f8a-11ee-8387-f01faf2411fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>okay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>81</ymin>
+			<xmax>430</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

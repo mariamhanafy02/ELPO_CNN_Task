@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou_Ahmed</folder>
+	<filename>thankyou.9c0e7609-2f89-11ee-bbf6-f01faf2411fe.jpg</filename>
+	<path>C:\Users\lenovo\Downloads\thankyou_Ahmed\thankyou.9c0e7609-2f89-11ee-bbf6-f01faf2411fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>172</ymin>
+			<xmax>379</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

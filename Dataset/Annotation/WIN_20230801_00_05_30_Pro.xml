@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Camera Roll</folder>
+	<filename>WIN_20230801_00_05_30_Pro.jpg</filename>
+	<path>C:\Users\youssefsaad5\Pictures\Camera Roll\WIN_20230801_00_05_30_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>449</ymin>
+			<xmax>691</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

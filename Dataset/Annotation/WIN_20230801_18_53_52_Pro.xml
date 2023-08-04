@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eat</folder>
+	<filename>WIN_20230801_18_53_52_Pro.jpg</filename>
+	<path>C:\Users\Mariam Barakat\Desktop\work\ELPO\CNN_Task3\Mariam_salma\Tensorflow\workspace\images\collectedimages\eat\WIN_20230801_18_53_52_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>335</ymin>
+			<xmax>591</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drink</folder>
+	<filename>WIN_20230801_19_02_25_Pro.jpg</filename>
+	<path>C:\Users\Mariam Barakat\Desktop\work\ELPO\CNN_Task3\Mariam_salma\Tensorflow\workspace\images\collectedimages\drink\WIN_20230801_19_02_25_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>316</ymin>
+			<xmax>675</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

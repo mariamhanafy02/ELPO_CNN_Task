@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drink</folder>
+	<filename>WIN_20230731_23_26_02_Pro.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\CNN_Sign_Language\Tensorflow\workspace\images\collectedimages\drink\WIN_20230731_23_26_02_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>462</ymin>
+			<xmax>718</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>WIN_20230801_00_10_19_Pro.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\CNN_Sign_Language\Tensorflow\workspace\images\collectedimages\thankyou\WIN_20230801_00_10_19_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>164</ymin>
+			<xmax>843</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

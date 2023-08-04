@@ -1,0 +1,26 @@
+<annotation>
+	<folder>love</folder>
+	<filename>Love.1b5759b0-2edb-11ee-9b5a-1cbfc06d247e.jpg</filename>
+	<path>C:\Users\Mariam Barakat\Desktop\work\ELPO\CNN_Task3\Mariam_salma\Tensorflow\workspace\images\collectedimages\love\Love.1b5759b0-2edb-11ee-9b5a-1cbfc06d247e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>love</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>304</ymin>
+			<xmax>473</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

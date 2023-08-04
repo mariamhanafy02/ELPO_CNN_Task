@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>WIN_20230801_05_23_25_Pro.jpg</filename>
+	<path>C:\Users\Mariam Barakat\Desktop\work\ELPO\CNN_Task3\Ali Fouad ELPO project CNN\Ali Fouad ELPO project CNN\thankyou\WIN_20230801_05_23_25_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>454</ymin>
+			<xmax>852</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
